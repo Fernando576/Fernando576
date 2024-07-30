@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Fernando576/Fernando576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernando Maciel
 
-Here are some ideas to get you started:
+- Estou estudan na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  00001106032202sp@al.educacao.sp.gov.br
+
+  @Fernando576
+
+![](https://media1.tenor.com/m/AfFfV9qqItcAAAAC/happy-dance.gif)
